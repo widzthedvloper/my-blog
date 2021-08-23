@@ -1,11 +1,12 @@
 import React from 'react';
 import articleContent from './article-content';
+import NotFoundPage from './NotFoundPage';
 
 const ArticlePage = ({ match }) => {
     const name = match.params.name;
     const article = articleContent.find(article => article.name === name);
 
-    if (!article) return <h1>Article does not exist</h1>
+    if (!article) return <NotFoundPage />
     return(
         <>
             <h1>{article.title}</h1>
