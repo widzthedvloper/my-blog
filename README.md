@@ -23,7 +23,7 @@
 
 ### Usage
 
-1. Clone the reposatory by using the `git clone git@github.com:widzthedvloper/Book-store.git` command in your terminal
+1. Clone the reposatory by using the `git clone git@github.com:widzthedvloper/my-blog.git` command in your terminal
 2. `cd` into the clone reposatory
 3. Open the code base using any code editor or your choice, preferably "visual studio code editor"
 4. Open the vscode terminal and run the application by typing `npm start` and hit enter.
