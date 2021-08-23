@@ -3,6 +3,7 @@
 > A simple blog site made with react
 
 <p align="center">
+   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
     <a href="https://www.javascript.com/" alt="JS">
         <img src="https://img.shields.io/badge/javaScript-ES6-yellow" /></a>
     <a href="https://webpack.js.org//" alt="Webpack">
