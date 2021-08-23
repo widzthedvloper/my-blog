@@ -16,7 +16,12 @@
 
 ## ScreenShots
 
+### Articles List page
+
 ![ScreenShot](./myBlogList.png)
+
+### Article page
+
 ![ScreenShot](./myBlogArticle.png)
 
 ### Prerequisites
