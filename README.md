@@ -4,14 +4,10 @@
 
 <p align="center">
    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-    <a href="https://www.javascript.com/" alt="JS">
-        <img src="https://img.shields.io/badge/javaScript-ES6-yellow" /></a>
-    <a href="https://webpack.js.org//" alt="Webpack">
-        <img src="https://img.shields.io/badge/Webpack.js-5.21.2-blue" /></a>
-    <a href="https://eslint.org/" alt="Eslint">
-        <img src="https://img.shields.io/badge/eslint-6.8.0-red" /></a>
-    <a href="https://stylelint.io/" alt="Stylelint">
-        <img src="https://img.shields.io/badge/Stylelint-13.3.x-green" /></a>
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
 
 ## Watch the Live Version
